@@ -1,3 +1,4 @@
 autobahn==17.7.1
 simplejson==3.11.1
 Twisted==17.5.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
